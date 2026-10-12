@@ -1,0 +1,9 @@
+{
+  "selected_model": "Weighted Ontology Model",
+  "weights": {
+    "patient_recall_bma": 1.0,
+    "ic_specificity_log_factor": 0.1,
+    "contradiction_penalty": 0.2
+  },
+  "date": "2026-10-12T20:50:19.919335"
+}

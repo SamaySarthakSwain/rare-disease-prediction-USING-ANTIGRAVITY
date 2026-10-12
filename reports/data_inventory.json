@@ -1,0 +1,33 @@
+{
+  "scan_timestamp": "2026-10-12T15:07:09.617513",
+  "datasets": {
+    "hp_obo": {
+      "filename": "hp.obo",
+      "absolute_path": "E:\\Antigravity Projects\\Rare Disease Prediction\\Dataset 1\\hp.obo",
+      "file_size_bytes": 10863613,
+      "last_modified": "2026-10-12T20:24:37.550928",
+      "sha256": "93dace952fcb3ec4728818857f6ba76bc2d5312f4d83266519b8694b8e798f22"
+    },
+    "hpoa": {
+      "filename": "phenotype (1).hpoa",
+      "absolute_path": "E:\\Antigravity Projects\\Rare Disease Prediction\\Dataset 2\\phenotype (1).hpoa",
+      "file_size_bytes": 35816037,
+      "last_modified": "2026-10-12T20:24:57.089495",
+      "sha256": "e89aa39c8f97bf5a52c5d160f9250a603681d630ade8ec2679d84ac5aece1f72"
+    },
+    "genes_to_disease": {
+      "filename": "genes_to_disease.txt",
+      "absolute_path": "E:\\Antigravity Projects\\Rare Disease Prediction\\Dataset 3\\genes_to_disease.txt",
+      "file_size_bytes": 1492039,
+      "last_modified": "2026-10-12T20:25:11.714044",
+      "sha256": "7937a1b92779dc8614e39ace623b443c7c71dd15e4de11d5e52b14e331ab5978"
+    },
+    "genes_to_phenotype": {
+      "filename": "genes_to_phenotype.txt",
+      "absolute_path": "E:\\Antigravity Projects\\Rare Disease Prediction\\Dataset 4\\genes_to_phenotype.txt",
+      "file_size_bytes": 20821704,
+      "last_modified": "2026-10-12T20:25:34.252988",
+      "sha256": "507a17bff9c49e6329fbd88b1f91734fa7e9fdea5c06304044c0892eb6ab248c"
+    }
+  }
+}

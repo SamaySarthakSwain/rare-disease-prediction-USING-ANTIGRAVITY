@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-10-12T20:38:42.350543",
+  "random_seed": 42,
+  "source_checksums": {
+    "hp_obo": "93dace952fcb3ec4728818857f6ba76bc2d5312f4d83266519b8694b8e798f22",
+    "hpoa": "e89aa39c8f97bf5a52c5d160f9250a603681d630ade8ec2679d84ac5aece1f72",
+    "g2d": "7937a1b92779dc8614e39ace623b443c7c71dd15e4de11d5e52b14e331ab5978",
+    "g2p": "507a17bff9c49e6329fbd88b1f91734fa7e9fdea5c06304044c0892eb6ab248c"
+  },
+  "output_checksums": {
+    "hpo_terms": "1c62d5515b79506bc48969abb3015eacf0f035594a926fcf50b89262f0cc0d41",
+    "disease_phenotype": "d9735ab21c847188a0e2b0b5b51bc544e202380d52ba692631cfeaefc36c049b",
+    "gene_disease": "78613a5411abcadbc23b9dc8c4174c5093dcadb012ff2c50f42972627745a3c5",
+    "gene_phenotype": "ae17cae1e77889ed4d00124c25153954f91572fa5b93d7e095cfac862d4a676c",
+    "disease_metadata": "9abc801cfeee755ea02de84d56748189ad79ab327572b97a9856818a66b666e0",
+    "identifier_mapping": "9e1c6eea6e19052432a33068b100c2f70aa158210a7b1f4dcd67bfa8a0567a30"
+  },
+  "counts": {
+    "hpo_terms": {
+      "raw_stanzas": 20482,
+      "active_kept": 19894
+    },
+    "hpoa": {
+      "raw_rows": 286651,
+      "kept_rows": 286049,
+      "negated_rows": 733,
+      "unresolved_terms": 0,
+      "duplicates_removed": 602
+    },
+    "g2d": {
+      "raw_rows": 16099,
+      "kept_rows": 16099,
+      "duplicates_removed": 0
+    },
+    "g2p": {
+      "raw_rows": 333983,
+      "kept_rows": 333983,
+      "duplicates_removed": 0,
+      "unresolved_terms": 0
+    },
+    "diseases": 14871
+  },
+  "filtering_rules": [
+    "Obsolete HPO terms removed or mapped via alt_id/replaced_by",
+    "Negated annotations in HPOA flagged as qualifier=NOT rather than positive phenotype",
+    "Duplicate (disease, hpo, qualifier) pairs deduplicated",
+    "Gene identifiers canonicalized to NCBI:<id>",
+    "Exact match and alias mappings tracked with provenance"
+  ]
+}

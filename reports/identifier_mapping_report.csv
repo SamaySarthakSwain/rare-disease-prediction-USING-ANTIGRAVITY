@@ -1,0 +1,1508 @@
+entity_type,original_identifier,canonical_identifier,mapping_source,mapping_status,mapping_confidence,mapping_notes
+phenotype,HP:0004715,HP:0000003,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001425,HP:0000005,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001453,HP:0000005,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001461,HP:0000005,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0010985,HP:0000005,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001415,HP:0000006,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001447,HP:0000006,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001448,HP:0000006,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001451,HP:0000006,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001452,HP:0000006,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001455,HP:0000006,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001456,HP:0000006,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001463,HP:0000006,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001416,HP:0000007,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001526,HP:0000007,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0031362,HP:0000007,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004424,HP:0000009,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008731,HP:0000009,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000094,HP:0000010,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001154,HP:0000013,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008637,HP:0000013,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006942,HP:0000020,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008681,HP:0000020,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002838,HP:0000021,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008649,HP:0000026,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000797,HP:0000028,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0003335,HP:0000044,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008224,HP:0000044,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0030276,HP:0000046,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008710,HP:0000050,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008721,HP:0000050,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000038,HP:0000054,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008690,HP:0000061,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008685,HP:0000062,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008693,HP:0000062,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006001,HP:0000069,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006003,HP:0000072,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005998,HP:0000076,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006002,HP:0000076,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008667,HP:0000076,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000084,HP:0000083,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004723,HP:0000083,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001968,HP:0000089,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004741,HP:0000089,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008641,HP:0000089,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004748,HP:0000090,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005578,HP:0000092,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0033276,HP:0000095,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0030761,HP:0000096,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004747,HP:0000097,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001527,HP:0000098,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0003515,HP:0000098,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0003516,HP:0000098,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000801,HP:0000100,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004718,HP:0000100,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008638,HP:0000100,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008727,HP:0000100,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0200060,HP:0000103,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000785,HP:0000104,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004745,HP:0000104,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008680,HP:0000104,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000088,HP:0000107,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000109,HP:0000107,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000116,HP:0000110,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004721,HP:0000110,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004716,HP:0000113,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004739,HP:0000113,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004740,HP:0000113,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008645,HP:0000113,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008673,HP:0000113,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008699,HP:0000113,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000806,HP:0000114,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008658,HP:0000119,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008688,HP:0000119,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008704,HP:0000119,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008713,HP:0000119,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008634,HP:0000123,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008630,HP:0000130,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008692,HP:0000130,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008642,HP:0000131,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0100609,HP:0000132,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0003243,HP:0000133,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000146,HP:0000138,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0100824,HP:0000139,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008650,HP:0000142,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008644,HP:0000147,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008657,HP:0000147,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006745,HP:0000150,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000181,HP:0000154,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002052,HP:0000154,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000203,HP:0000158,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002261,HP:0000160,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0009095,HP:0000160,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0009096,HP:0000160,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001567,HP:0000164,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006296,HP:0000164,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006348,HP:0000164,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000226,HP:0000171,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0009079,HP:0000171,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0410004,HP:0000175,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000208,HP:0000176,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002746,HP:0000176,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0009091,HP:0000176,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000170,HP:0000179,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0200087,HP:0000188,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000173,HP:0000193,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0410032,HP:0000193,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000195,HP:0000212,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000231,HP:0000215,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002709,HP:0000217,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0100756,HP:0000217,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000156,HP:0000218,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0009080,HP:0000218,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0009082,HP:0000218,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0009097,HP:0000218,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0200062,HP:0000219,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0200086,HP:0000219,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007539,HP:0000222,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000167,HP:0000225,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000184,HP:0000232,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002264,HP:0000232,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002712,HP:0000232,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004665,HP:0000232,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0009086,HP:0000232,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0009093,HP:0000232,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000213,HP:0000233,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007189,HP:0000238,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008503,HP:0000238,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004473,HP:0000239,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004641,HP:0000242,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002258,HP:0000248,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004479,HP:0000248,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008512,HP:0000248,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001366,HP:0000252,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005485,HP:0000252,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005489,HP:0000252,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005497,HP:0000252,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005491,HP:0000256,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005496,HP:0000256,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0200135,HP:0000256,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001356,HP:0000262,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000258,HP:0000268,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005440,HP:0000268,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004489,HP:0000269,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002704,HP:0000270,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0003794,HP:0000270,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000312,HP:0000272,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000332,HP:0000272,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004642,HP:0000272,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004658,HP:0000272,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004671,HP:0000272,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005319,HP:0000272,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005443,HP:0000272,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005455,HP:0000272,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0100846,HP:0000272,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000318,HP:0000275,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000334,HP:0000276,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000209,HP:0000277,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002053,HP:0000278,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002954,HP:0000278,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000281,HP:0000280,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004640,HP:0000280,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000624,HP:0000286,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007930,HP:0000286,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0011216,HP:0000288,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002262,HP:0000293,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004427,HP:0000293,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000251,HP:0000303,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000279,HP:0000303,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000328,HP:0000303,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002051,HP:0000303,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004648,HP:0000303,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004656,HP:0000303,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008514,HP:0000303,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005330,HP:0000307,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0430026,HP:0000309,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000304,HP:0000311,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004653,HP:0000311,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000284,HP:0000315,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000578,HP:0000316,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002001,HP:0000316,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004657,HP:0000316,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007871,HP:0000316,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004651,HP:0000317,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000299,HP:0000319,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000323,HP:0000319,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004663,HP:0000319,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0200090,HP:0000322,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0003775,HP:0000324,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004645,HP:0000325,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004662,HP:0000325,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004668,HP:0000325,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004644,HP:0000327,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000352,HP:0000337,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000354,HP:0000337,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008769,HP:0000338,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000351,HP:0000340,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004480,HP:0000340,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008493,HP:0000340,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008500,HP:0000340,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000314,HP:0000341,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004674,HP:0000341,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004677,HP:0000341,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000210,HP:0000347,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000330,HP:0000347,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000345,HP:0000347,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002005,HP:0000347,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002674,HP:0000347,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004669,HP:0000347,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005460,HP:0000347,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005470,HP:0000347,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000342,HP:0000348,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004544,HP:0000349,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001752,HP:0000356,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000368,HP:0000358,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008535,HP:0000358,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000404,HP:0000365,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001728,HP:0000365,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001729,HP:0000365,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001754,HP:0000365,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008560,HP:0000365,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008563,HP:0000365,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000390,HP:0000377,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000398,HP:0000377,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004465,HP:0000377,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008562,HP:0000377,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008566,HP:0000377,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008567,HP:0000377,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008572,HP:0000377,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008580,HP:0000377,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008582,HP:0000377,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008594,HP:0000377,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008602,HP:0000377,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0040111,HP:0000377,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008531,HP:0000378,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008600,HP:0000378,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008575,HP:0000384,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0100278,HP:0000384,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008616,HP:0000385,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008524,HP:0000389,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001758,HP:0000396,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008570,HP:0000396,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001731,HP:0000399,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000382,HP:0000400,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000386,HP:0000400,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000401,HP:0000400,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001755,HP:0000400,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000373,HP:0000402,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008622,HP:0000403,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008623,HP:0000403,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008624,HP:0000403,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0040268,HP:0000403,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000367,HP:0000405,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008581,HP:0000405,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000374,HP:0000407,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001753,HP:0000407,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001916,HP:0000407,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008538,HP:0000407,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008553,HP:0000407,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008565,HP:0000407,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008576,HP:0000407,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008611,HP:0000407,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008613,HP:0000407,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008614,HP:0000407,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000397,HP:0000408,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000406,HP:0000408,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008592,HP:0000408,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008601,HP:0000408,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008617,HP:0000408,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000412,HP:0000411,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008547,HP:0000413,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008564,HP:0000413,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008626,HP:0000413,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000443,HP:0000414,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000423,HP:0000422,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000432,HP:0000426,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000442,HP:0000426,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004498,HP:0000426,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005287,HP:0000426,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004497,HP:0000430,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004507,HP:0000430,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005276,HP:0000430,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005277,HP:0000430,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005286,HP:0000430,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000424,HP:0000431,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004500,HP:0000431,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004504,HP:0000431,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004650,HP:0000431,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0200139,HP:0000431,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005279,HP:0000437,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0003683,HP:0000444,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000438,HP:0000445,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0100782,HP:0000446,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000461,HP:0000448,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005271,HP:0000448,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0200140,HP:0000448,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000416,HP:0000453,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004496,HP:0000453,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004503,HP:0000453,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004501,HP:0000455,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005269,HP:0000455,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005282,HP:0000456,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000427,HP:0000463,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000435,HP:0000463,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000441,HP:0000463,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004495,HP:0000463,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0005992,HP:0000470,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0200137,HP:0000470,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000477,HP:0000474,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007901,HP:0000479,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007938,HP:0000479,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007808,HP:0000480,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007771,HP:0000481,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007972,HP:0000481,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0100688,HP:0000482,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007660,HP:0000485,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000487,HP:0000486,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000663,HP:0000490,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000285,HP:0000492,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007714,HP:0000494,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007908,HP:0000494,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007674,HP:0000495,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007749,HP:0000495,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006860,HP:0000496,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004530,HP:0000499,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000516,HP:0000505,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000566,HP:0000505,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007758,HP:0000505,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007860,HP:0000505,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007983,HP:0000505,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000547,HP:0000510,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001127,HP:0000510,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007635,HP:0000510,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007645,HP:0000510,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007742,HP:0000510,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007816,HP:0000510,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007826,HP:0000510,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007927,HP:0000510,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008036,HP:0000510,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0003285,HP:0000512,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001113,HP:0000518,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007825,HP:0000518,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0010700,HP:0000518,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001108,HP:0000519,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007679,HP:0000519,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007692,HP:0000519,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007726,HP:0000519,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007788,HP:0000519,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000536,HP:0000520,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000644,HP:0000520,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000645,HP:0000520,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007711,HP:0000520,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007870,HP:0000520,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001490,HP:0000523,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007978,HP:0000523,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0011498,HP:0000526,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000500,HP:0000527,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001485,HP:0000528,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007664,HP:0000528,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000560,HP:0000529,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007735,HP:0000529,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007753,HP:0000529,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007967,HP:0000529,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007760,HP:0000531,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001145,HP:0000532,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007888,HP:0000532,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001150,HP:0000533,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007884,HP:0000533,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007912,HP:0000533,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007918,HP:0000533,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007931,HP:0000533,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007945,HP:0000533,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0200065,HP:0000533,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007864,HP:0000541,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008021,HP:0000541,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001148,HP:0000543,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001484,HP:0000543,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007762,HP:0000544,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001110,HP:0000545,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007847,HP:0000545,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008012,HP:0000545,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007632,HP:0000546,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007790,HP:0000546,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007863,HP:0000546,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007893,HP:0000546,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008035,HP:0000546,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008506,HP:0000546,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008157,HP:0000548,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008042,HP:0000550,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007736,HP:0000556,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007910,HP:0000556,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007974,HP:0000556,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007982,HP:0000556,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0030635,HP:0000556,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002288,HP:0000561,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004516,HP:0000561,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004539,HP:0000561,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007926,HP:0000561,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007729,HP:0000564,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000611,HP:0000567,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007718,HP:0000567,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007784,HP:0000567,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007956,HP:0000567,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007996,HP:0000568,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000604,HP:0000570,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004546,HP:0000574,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008033,HP:0000577,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001146,HP:0000580,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007702,HP:0000580,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007821,HP:0000580,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007852,HP:0000580,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007869,HP:0000580,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007934,HP:0000580,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007961,HP:0000580,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008010,HP:0000580,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000507,HP:0000581,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000513,HP:0000581,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002706,HP:0000586,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007997,HP:0000588,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007767,HP:0000589,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007995,HP:0000589,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000562,HP:0000590,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007756,HP:0000594,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007701,HP:0000597,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008044,HP:0000597,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007877,HP:0000601,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007694,HP:0000608,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007868,HP:0000608,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007273,HP:0000609,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001122,HP:0000610,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007757,HP:0000610,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0025568,HP:0000610,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007744,HP:0000612,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007748,HP:0000612,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008018,HP:0000615,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0030960,HP:0000615,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007671,HP:0000617,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008006,HP:0000617,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007839,HP:0000618,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007723,HP:0000622,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0100740,HP:0000627,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000521,HP:0000632,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007904,HP:0000637,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007960,HP:0000642,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007907,HP:0000643,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007751,HP:0000648,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007855,HP:0000648,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007909,HP:0000652,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002284,HP:0000653,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004519,HP:0000653,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004531,HP:0000653,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004555,HP:0000653,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0004777,HP:0000653,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007853,HP:0000653,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007636,HP:0000654,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007689,HP:0000654,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007845,HP:0000654,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000628,HP:0000657,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007764,HP:0000657,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007653,HP:0000662,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007725,HP:0000662,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007865,HP:0000662,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007895,HP:0000662,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002210,HP:0000664,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006295,HP:0000670,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006306,HP:0000670,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006484,HP:0000674,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000702,HP:0000677,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006322,HP:0000682,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000686,HP:0000684,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006294,HP:0000684,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006314,HP:0000684,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006328,HP:0000684,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000688,HP:0000685,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006281,HP:0000685,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006307,HP:0000685,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000693,HP:0000692,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001569,HP:0000692,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006303,HP:0000692,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006478,HP:0000692,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000165,HP:0000704,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006301,HP:0000704,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006284,HP:0000705,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006310,HP:0000705,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006325,HP:0000705,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006327,HP:0000705,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006331,HP:0000705,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001333,HP:0000707,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006987,HP:0000707,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000715,HP:0000708,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002368,HP:0000708,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002456,HP:0000708,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000720,HP:0000712,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0001575,HP:0000712,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0008766,HP:0000712,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0006919,HP:0000718,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0030220,HP:0000719,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0002274,HP:0000726,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007122,HP:0000726,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0007150,HP:0000726,hp.obo,mapped_alias,1.0,Resolved via alt_id stanza
+phenotype,HP:0000057,HP:0008665,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0000284,HP:0000315,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0000361,HP:0008629,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0000368,HP:0000358,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0000487,HP:0000486,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0000547,HP:0000510,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0000611,HP:0000567,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0000655,HP:0007773,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0000676,HP:0011063,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0000720,HP:0000712,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0000735,HP:0012760,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0000833,HP:0001952,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0000923,HP:0006640,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0000976,HP:0000964,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001002,HP:0003758,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001006,HP:0008070,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001011,HP:0000975,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001113,HP:0000518,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001146,HP:0000580,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001163,HP:0005916,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001180,HP:0009380,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001226,HP:0006121,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001322,HP:0006872,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001379,HP:0002758,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001380,HP:0001382,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001388,HP:0001382,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001400,HP:0100523,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001425,HP:0000005,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001428,HP:0001442,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001444,HP:0001442,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001452,HP:0000006,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001472,HP:0001426,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001487,HP:0007894,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001575,HP:0000712,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001587,HP:0008209,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001606,HP:0001605,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001613,HP:0001609,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001673,HP:0001649,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001675,HP:0011675,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001676,HP:0001962,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001724,HP:0004942,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0001862,HP:0006121,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002109,HP:0025426,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002111,HP:0002091,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002189,HP:0001262,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002229,HP:0002232,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002271,HP:0012332,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002275,HP:0002311,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002281,HP:0002282,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002355,HP:0001288,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002357,HP:0002381,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002370,HP:0002311,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002377,HP:0006824,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002438,HP:0001317,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002459,HP:0012332,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002564,HP:0030680,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002622,HP:0002647,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002631,HP:0002616,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002648,HP:0002683,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002695,HP:0002697,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002755,HP:0002754,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002773,HP:0008479,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002845,HP:0002851,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002880,HP:0002098,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002924,HP:0004319,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002961,HP:0010701,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0002997,HP:0040071,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0003063,HP:0031095,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0003114,HP:0001626,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0003116,HP:0001626,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0003152,HP:0031415,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0003335,HP:0000044,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0003347,HP:0025834,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0003421,HP:0000926,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0003464,HP:0003107,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0003490,HP:0003150,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0003553,HP:0100658,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0003683,HP:0000444,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0003741,HP:0003560,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0003783,HP:0008796,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0003975,HP:0004000,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004059,HP:0006433,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004144,HP:0009948,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004157,HP:0009963,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004174,HP:0009963,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004192,HP:0009394,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004201,HP:0009310,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004202,HP:0009312,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004203,HP:0009300,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004355,HP:0001939,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004366,HP:0011013,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004367,HP:0001939,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004478,HP:0007330,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004495,HP:0000463,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004496,HP:0000453,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004544,HP:0000349,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004782,HP:0002209,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004928,HP:0004950,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004929,HP:0001677,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004953,HP:0005112,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004954,HP:0004959,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0004986,HP:0006381,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005099,HP:0001789,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005111,HP:0004970,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005114,HP:0011004,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005130,HP:0001723,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005141,HP:0004751,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005173,HP:0004380,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005296,HP:0004950,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005298,HP:0006695,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005299,HP:0004950,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005309,HP:0004950,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005315,HP:0004950,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005354,HP:0011840,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005364,HP:0004429,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005365,HP:0010976,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005375,HP:0005374,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005402,HP:0011840,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005407,HP:0032218,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005409,HP:0011840,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005435,HP:0011840,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005512,HP:0003203,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005540,HP:0004447,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005587,HP:0001000,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005692,HP:0001382,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005744,HP:0040160,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005788,HP:0002318,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005794,HP:0004950,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005807,HP:0009881,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005834,HP:0009658,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005837,HP:0001373,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005848,HP:0009611,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005899,HP:0100255,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005901,HP:0002754,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005921,HP:0010660,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005952,HP:0002795,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0005984,HP:0011432,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006069,HP:0001216,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006153,HP:0006257,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006158,HP:0001187,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006187,HP:0009700,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006334,HP:0006347,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006420,HP:0006433,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006436,HP:0005736,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006504,HP:0000940,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006525,HP:0002101,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006541,HP:0006510,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006877,HP:0001249,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006887,HP:0001249,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006893,HP:0007033,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006901,HP:0010829,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006919,HP:0000718,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006926,HP:0002415,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006957,HP:0002505,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006983,HP:0002510,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0006984,HP:0003409,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007081,HP:0003560,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007087,HP:0001336,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007095,HP:0012650,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007227,HP:0001302,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007314,HP:0002282,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007316,HP:0002305,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007409,HP:0003758,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007435,HP:0007447,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007436,HP:0000968,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007476,HP:0000968,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007519,HP:0007485,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007529,HP:0000968,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007543,HP:0000962,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007548,HP:0000972,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007561,HP:0100585,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007597,HP:0007545,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007607,HP:0000968,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007654,HP:0007922,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007680,HP:0007894,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007692,HP:0000519,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007698,HP:0007722,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007702,HP:0000580,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007713,HP:0010920,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007739,HP:0007663,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007756,HP:0000594,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007757,HP:0000610,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007758,HP:0000505,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007760,HP:0000531,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007770,HP:0007973,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007782,HP:0007769,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007786,HP:0007858,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007808,HP:0000480,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007815,HP:0008046,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007825,HP:0000518,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007850,HP:0030666,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007852,HP:0000580,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007869,HP:0000580,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007876,HP:0100019,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007893,HP:0000546,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007898,HP:0012231,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007901,HP:0000479,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007920,HP:0001135,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007930,HP:0000286,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007945,HP:0000533,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007949,HP:0200056,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007956,HP:0000567,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0007981,HP:0001133,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008005,HP:0001131,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008008,HP:0007663,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008014,HP:0032416,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008017,HP:0007722,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008024,HP:0100018,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008033,HP:0000577,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008035,HP:0000546,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008036,HP:0000510,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008051,HP:0007703,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008075,HP:0001761,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008165,HP:0032218,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008230,HP:0040171,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008250,HP:0003072,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008285,HP:0002148,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008335,HP:0003355,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008498,HP:0006349,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008501,HP:0009099,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008572,HP:0000377,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008636,HP:0100820,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008648,HP:0100627,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008694,HP:0008683,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008715,HP:0008733,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008803,HP:0003375,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0008826,HP:0002827,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009042,HP:0003712,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009044,HP:0030241,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009062,HP:0008936,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009178,HP:0004218,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009232,HP:0009177,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009308,HP:0004197,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009314,HP:0009477,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009435,HP:0009445,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009449,HP:0009447,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009455,HP:0009482,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009574,HP:0009545,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009586,HP:0009579,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009595,HP:0001067,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009620,HP:0001234,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009773,HP:0009700,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009822,HP:0003953,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009849,HP:0009700,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0009857,HP:0006152,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0010064,HP:0010091,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0010082,HP:0010091,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0010191,HP:0001859,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0010209,HP:0010200,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0010221,HP:0006179,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0010410,HP:0010353,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0010457,HP:0008798,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0010692,HP:0005650,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0010700,HP:0000518,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0010905,HP:0010904,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0010928,HP:0003218,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0010960,HP:0100632,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0010961,HP:0011278,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0010962,HP:0006544,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0010985,HP:0000005,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0011016,HP:0003076,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0011076,HP:0011080,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0011077,HP:0011070,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0011148,HP:0002121,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0011155,HP:0032755,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0011156,HP:0032740,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0011162,HP:0032680,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0011164,HP:0011154,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0011349,HP:0006897,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0011357,HP:0011362,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0011398,HP:0001252,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0011498,HP:0000526,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0011605,HP:0011540,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0011765,HP:0012731,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0011837,HP:0002720,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0012140,HP:0004332,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0012178,HP:0012177,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0012201,HP:0008151,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0012290,HP:0100649,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0012291,HP:0100551,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0012335,HP:0040087,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0012336,HP:0012446,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0012369,HP:0010668,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0012374,HP:0012372,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0012455,HP:0003207,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0012509,HP:0034591,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0012611,HP:0003149,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0012677,HP:0002454,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0020063,HP:0001900,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0020098,HP:0012302,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025121,HP:0011165,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025191,HP:0011166,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025239,HP:0025240,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025266,HP:0008480,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025319,HP:0011497,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025356,HP:0001263,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025428,HP:4000007,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025462,HP:0011017,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025568,HP:0000610,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025620,HP:0031392,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025621,HP:0410393,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025622,HP:0410388,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025623,HP:0410379,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025632,HP:0003203,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025658,HP:0025715,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025767,HP:0031844,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025768,HP:0031844,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0025806,HP:0010975,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030013,HP:0030127,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030050,HP:0002524,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030073,HP:0100638,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030152,HP:0100574,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030214,HP:5200321,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030220,HP:0000719,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030251,HP:0010976,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030253,HP:0031379,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030266,HP:0010456,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030276,HP:0000046,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030332,HP:0002843,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030333,HP:0002843,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030334,HP:0020111,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030335,HP:0020111,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030336,HP:0020113,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030337,HP:0020112,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030340,HP:0000837,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030354,HP:0011116,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030422,HP:0009715,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030494,HP:0032416,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030508,HP:0011513,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030523,HP:0030525,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030524,HP:0030525,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030635,HP:0000556,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030638,HP:0007642,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030639,HP:0007642,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030640,HP:0007642,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030641,HP:0007642,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030761,HP:0000096,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030782,HP:0011117,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030960,HP:0000615,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030963,HP:0001679,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030971,HP:0005345,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0030995,HP:0001541,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031005,HP:0012534,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031014,HP:0031632,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031068,HP:0012427,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031070,HP:0008796,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031297,HP:0011643,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031349,HP:0011540,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031362,HP:0000007,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031440,HP:0001702,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031477,HP:0001633,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031529,HP:0031528,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031530,HP:0031528,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031532,HP:0031531,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031533,HP:0031531,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031698,HP:0020087,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031804,HP:0025240,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031900,HP:0031901,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031906,HP:0025434,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0031988,HP:0003394,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032117,HP:0032105,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032119,HP:0012109,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032172,HP:0033661,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032207,HP:0025454,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032272,HP:0034649,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032340,HP:0030878,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032364,HP:0500184,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032461,HP:0045055,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032483,HP:0031685,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032529,HP:0410053,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032683,HP:0032681,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032695,HP:0012008,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032697,HP:0012004,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032703,HP:0012007,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032875,HP:0032756,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032881,HP:0032681,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032931,HP:0032756,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0032982,HP:0006517,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0033029,HP:0034152,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0033276,HP:0000095,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0033304,HP:0003607,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0033452,HP:0031085,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0033455,HP:0003215,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0033463,HP:0031544,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0033659,HP:0025391,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0033798,HP:0025825,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0033919,HP:0033917,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0034027,HP:0033098,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0034028,HP:6000283,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0034041,HP:0006682,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0034113,HP:0030908,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0034116,HP:0034189,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0034286,HP:0020102,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0034379,HP:0003657,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0034603,HP:0032345,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0034653,HP:0033303,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0034826,HP:4000101,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0034933,HP:0025550,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0034994,HP:0034026,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040021,HP:0001234,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040037,HP:0012742,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040038,HP:0012746,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040048,HP:0009112,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040065,HP:0040070,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040066,HP:0040069,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040073,HP:0040072,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040077,HP:0004363,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040083,HP:0030051,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040110,HP:0030999,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040111,HP:0000377,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040124,HP:0040115,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040126,HP:0004341,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040166,HP:0030313,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040168,HP:0007359,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040180,HP:0032152,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040184,HP:0030140,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040193,HP:0030408,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040199,HP:0011800,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040215,HP:0040214,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040263,HP:0012478,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040268,HP:0000403,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040278,HP:0006767,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040290,HP:0003011,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040291,HP:0012548,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0040316,HP:0030261,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0041053,HP:0041082,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0041060,HP:0041058,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0041064,HP:0034669,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0041066,HP:0041063,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0041070,HP:0041068,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0041075,HP:0041072,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0041154,HP:0041219,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0041232,HP:0004277,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0045009,HP:0002818,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0045016,HP:0003455,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0045080,HP:0005403,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0100237,HP:0010200,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0100470,HP:0010365,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0100471,HP:0010377,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0100472,HP:0010389,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0100473,HP:0010365,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0100474,HP:0100481,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0100475,HP:0010389,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0100489,HP:0010353,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0100492,HP:0008366,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0100609,HP:0000132,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0100637,HP:0012720,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0100672,HP:0031607,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0100786,HP:0001262,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0100805,HP:0008209,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0100843,HP:0012174,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0200065,HP:0000533,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0200095,HP:0009102,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0200126,HP:0030843,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0410003,HP:0010289,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0410004,HP:0000175,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0410007,HP:0002763,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0410032,HP:0000193,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0410049,HP:0006433,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0410068,HP:0500149,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0410158,HP:0003239,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0410177,HP:0410176,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0410192,HP:0410193,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0410325,HP:0410324,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0410381,HP:0410379,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0410382,HP:0410379,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0410387,HP:0025624,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0410394,HP:0025625,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0430026,HP:0000309,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0500010,HP:0031211,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0500088,HP:0012643,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0500263,HP:0031392,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0500264,HP:0032219,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0500267,HP:0031392,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0500272,HP:0500269,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0500273,HP:0500270,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:0500274,HP:0500271,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:3000001,HP:0001627,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:4000080,HP:5200027,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5000041,HP:5000006,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5000045,HP:0030210,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200004,HP:0012760,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200025,HP:5200021,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200031,HP:5200026,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200032,HP:5200026,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200036,HP:5200028,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200053,HP:5200028,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200054,HP:5200028,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200103,HP:0012760,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200122,HP:0031433,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200128,HP:0034434,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200131,HP:0012760,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200137,HP:5200110,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200235,HP:0025769,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200269,HP:0025779,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200275,HP:0025780,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:5200284,HP:0003763,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:6000117,HP:0034565,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:6000159,HP:0034029,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:6000178,HP:0034781,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:6000276,HP:0020079,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:6000523,HP:6000701,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:6000543,HP:6000835,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:6000909,HP:6000838,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:6001030,HP:6000079,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:6001156,HP:6000248,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+phenotype,HP:6001288,HP:6001276,hp.obo,mapped_replacement,1.0,Resolved via replaced_by stanza
+gene,NCBIGene:271,NCBI:271,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:199699,NCBI:199699,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:23557,NCBI:23557,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:25978,NCBI:25978,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4214,NCBI:4214,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3257,NCBI:3257,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5081,NCBI:5081,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7700,NCBI:7700,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4625,NCBI:4625,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3431,NCBI:3431,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9197,NCBI:9197,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2160,NCBI:2160,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8289,NCBI:8289,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8991,NCBI:8991,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:254065,NCBI:254065,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5091,NCBI:5091,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:51218,NCBI:51218,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:84868,NCBI:84868,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:63950,NCBI:63950,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:11193,NCBI:11193,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3854,NCBI:3854,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5956,NCBI:5956,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:64087,NCBI:64087,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4983,NCBI:4983,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9785,NCBI:9785,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8312,NCBI:8312,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:196385,NCBI:196385,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7291,NCBI:7291,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2068,NCBI:2068,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2904,NCBI:2904,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:27238,NCBI:27238,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6794,NCBI:6794,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9895,NCBI:9895,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4968,NCBI:4968,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:23395,NCBI:23395,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1300,NCBI:1300,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:90665,NCBI:90665,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:26011,NCBI:26011,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9054,NCBI:9054,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:10,NCBI:10,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6907,NCBI:6907,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:22953,NCBI:22953,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:222546,NCBI:222546,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5566,NCBI:5566,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2186,NCBI:2186,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5940,NCBI:5940,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7547,NCBI:7547,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2783,NCBI:2783,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1482,NCBI:1482,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5147,NCBI:5147,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9401,NCBI:9401,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:55074,NCBI:55074,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5000,NCBI:5000,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:84163,NCBI:84163,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1316,NCBI:1316,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2050,NCBI:2050,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6535,NCBI:6535,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:84842,NCBI:84842,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6499,NCBI:6499,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:29126,NCBI:29126,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:35,NCBI:35,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:726,NCBI:726,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6709,NCBI:6709,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6696,NCBI:6696,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:253959,NCBI:253959,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4330,NCBI:4330,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:799,NCBI:799,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:80217,NCBI:80217,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9622,NCBI:9622,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:84061,NCBI:84061,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2645,NCBI:2645,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:79415,NCBI:79415,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4644,NCBI:4644,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:60676,NCBI:60676,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1356,NCBI:1356,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8314,NCBI:8314,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:10295,NCBI:10295,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9950,NCBI:9950,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:25970,NCBI:25970,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2961,NCBI:2961,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:939,NCBI:939,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:55788,NCBI:55788,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8867,NCBI:8867,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3371,NCBI:3371,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:667,NCBI:667,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6934,NCBI:6934,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5337,NCBI:5337,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:51185,NCBI:51185,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9391,NCBI:9391,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4052,NCBI:4052,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3052,NCBI:3052,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4439,NCBI:4439,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:128486,NCBI:128486,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3575,NCBI:3575,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:644,NCBI:644,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2784,NCBI:2784,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8120,NCBI:8120,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:347734,NCBI:347734,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:781,NCBI:781,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4363,NCBI:4363,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1749,NCBI:1749,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8842,NCBI:8842,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:80781,NCBI:80781,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:26022,NCBI:26022,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:138050,NCBI:138050,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9132,NCBI:9132,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:89953,NCBI:89953,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5774,NCBI:5774,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:10644,NCBI:10644,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:25821,NCBI:25821,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:123606,NCBI:123606,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:54507,NCBI:54507,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:207,NCBI:207,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2969,NCBI:2969,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:79669,NCBI:79669,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3199,NCBI:3199,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:25930,NCBI:25930,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:55617,NCBI:55617,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:55800,NCBI:55800,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3752,NCBI:3752,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:85300,NCBI:85300,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9149,NCBI:9149,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:374291,NCBI:374291,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:93986,NCBI:93986,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:23426,NCBI:23426,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4864,NCBI:4864,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2677,NCBI:2677,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1272,NCBI:1272,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:84320,NCBI:84320,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:91039,NCBI:91039,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:83872,NCBI:83872,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:80210,NCBI:80210,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:401024,NCBI:401024,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:23581,NCBI:23581,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:113457,NCBI:113457,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6785,NCBI:6785,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3892,NCBI:3892,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:203547,NCBI:203547,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5251,NCBI:5251,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:364,NCBI:364,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:56896,NCBI:56896,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:729920,NCBI:729920,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1406,NCBI:1406,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:11234,NCBI:11234,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:343641,NCBI:343641,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:80025,NCBI:80025,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2639,NCBI:2639,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5813,NCBI:5813,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:55603,NCBI:55603,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5897,NCBI:5897,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9394,NCBI:9394,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4361,NCBI:4361,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:23389,NCBI:23389,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5888,NCBI:5888,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7319,NCBI:7319,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2274,NCBI:2274,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9024,NCBI:9024,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6309,NCBI:6309,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:27152,NCBI:27152,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7293,NCBI:7293,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:29960,NCBI:29960,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2592,NCBI:2592,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:28976,NCBI:28976,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:10518,NCBI:10518,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9313,NCBI:9313,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:26504,NCBI:26504,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1811,NCBI:1811,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:79783,NCBI:79783,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3569,NCBI:3569,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:611,NCBI:611,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4907,NCBI:4907,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4570,NCBI:4570,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5307,NCBI:5307,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:114803,NCBI:114803,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:51703,NCBI:51703,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:50485,NCBI:50485,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6777,NCBI:6777,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1419,NCBI:1419,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:22954,NCBI:22954,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:90459,NCBI:90459,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5459,NCBI:5459,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:728118,NCBI:728118,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3930,NCBI:3930,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8788,NCBI:8788,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9918,NCBI:9918,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:352909,NCBI:352909,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3039,NCBI:3039,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6507,NCBI:6507,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1200,NCBI:1200,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1071,NCBI:1071,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6949,NCBI:6949,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:10112,NCBI:10112,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2244,NCBI:2244,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:55679,NCBI:55679,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3028,NCBI:3028,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:166785,NCBI:166785,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:60528,NCBI:60528,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4645,NCBI:4645,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6601,NCBI:6601,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5927,NCBI:5927,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5313,NCBI:5313,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:54757,NCBI:54757,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5551,NCBI:5551,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:51807,NCBI:51807,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:26130,NCBI:26130,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5264,NCBI:5264,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8302,NCBI:8302,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6584,NCBI:6584,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3458,NCBI:3458,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:389207,NCBI:389207,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3710,NCBI:3710,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8449,NCBI:8449,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4514,NCBI:4514,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2487,NCBI:2487,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5133,NCBI:5133,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:65057,NCBI:65057,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:631,NCBI:631,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6531,NCBI:6531,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:25915,NCBI:25915,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:65062,NCBI:65062,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5568,NCBI:5568,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4607,NCBI:4607,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7297,NCBI:7297,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:55764,NCBI:55764,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:55596,NCBI:55596,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6658,NCBI:6658,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:212,NCBI:212,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8320,NCBI:8320,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9568,NCBI:9568,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:54768,NCBI:54768,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:54845,NCBI:54845,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6098,NCBI:6098,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1050,NCBI:1050,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7546,NCBI:7546,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:659,NCBI:659,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:23007,NCBI:23007,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3630,NCBI:3630,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7422,NCBI:7422,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5159,NCBI:5159,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6908,NCBI:6908,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2984,NCBI:2984,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1121,NCBI:1121,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4016,NCBI:4016,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2729,NCBI:2729,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:89765,NCBI:89765,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5450,NCBI:5450,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:83478,NCBI:83478,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:345611,NCBI:345611,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1286,NCBI:1286,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:388389,NCBI:388389,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9370,NCBI:9370,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:23322,NCBI:23322,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:126792,NCBI:126792,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5718,NCBI:5718,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8074,NCBI:8074,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:144577,NCBI:144577,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4842,NCBI:4842,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:26005,NCBI:26005,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:23424,NCBI:23424,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4938,NCBI:4938,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1642,NCBI:1642,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:729991,NCBI:729991,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:149233,NCBI:149233,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:50506,NCBI:50506,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6635,NCBI:6635,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9939,NCBI:9939,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2731,NCBI:2731,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:91137,NCBI:91137,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:128637,NCBI:128637,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:51744,NCBI:51744,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:286151,NCBI:286151,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:816,NCBI:816,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:866,NCBI:866,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:29980,NCBI:29980,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:91754,NCBI:91754,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3293,NCBI:3293,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7155,NCBI:7155,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2212,NCBI:2212,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4774,NCBI:4774,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:51294,NCBI:51294,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1909,NCBI:1909,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:176,NCBI:176,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6809,NCBI:6809,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8671,NCBI:8671,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8653,NCBI:8653,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6653,NCBI:6653,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:10842,NCBI:10842,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8777,NCBI:8777,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1545,NCBI:1545,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3145,NCBI:3145,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1363,NCBI:1363,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4534,NCBI:4534,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1969,NCBI:1969,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:56999,NCBI:56999,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2549,NCBI:2549,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8820,NCBI:8820,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:51360,NCBI:51360,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:79816,NCBI:79816,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2770,NCBI:2770,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1950,NCBI:1950,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5269,NCBI:5269,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:340061,NCBI:340061,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:10654,NCBI:10654,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:83844,NCBI:83844,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:22796,NCBI:22796,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:26053,NCBI:26053,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3098,NCBI:3098,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:83737,NCBI:83737,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:10481,NCBI:10481,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3939,NCBI:3939,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2719,NCBI:2719,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:55706,NCBI:55706,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:23383,NCBI:23383,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:54496,NCBI:54496,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5442,NCBI:5442,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:149775,NCBI:149775,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8879,NCBI:8879,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2395,NCBI:2395,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1836,NCBI:1836,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7139,NCBI:7139,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:79925,NCBI:79925,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:51434,NCBI:51434,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:55212,NCBI:55212,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:100151684,NCBI:100151684,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6548,NCBI:6548,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5770,NCBI:5770,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4041,NCBI:4041,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:23135,NCBI:23135,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6476,NCBI:6476,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8823,NCBI:8823,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:57156,NCBI:57156,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4159,NCBI:4159,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2896,NCBI:2896,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6857,NCBI:6857,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:90411,NCBI:90411,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:55157,NCBI:55157,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1460,NCBI:1460,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6208,NCBI:6208,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:22800,NCBI:22800,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:87178,NCBI:87178,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:63915,NCBI:63915,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7167,NCBI:7167,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2741,NCBI:2741,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4728,NCBI:4728,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6492,NCBI:6492,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1678,NCBI:1678,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:51715,NCBI:51715,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:29893,NCBI:29893,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:124997,NCBI:124997,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5828,NCBI:5828,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:84433,NCBI:84433,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3954,NCBI:3954,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6347,NCBI:6347,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:57187,NCBI:57187,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:83990,NCBI:83990,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2077,NCBI:2077,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3640,NCBI:3640,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:596,NCBI:596,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:112812,NCBI:112812,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:65267,NCBI:65267,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:11133,NCBI:11133,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:100128927,NCBI:100128927,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:84529,NCBI:84529,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:200403,NCBI:200403,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:221322,NCBI:221322,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:79736,NCBI:79736,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:23013,NCBI:23013,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:23137,NCBI:23137,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6497,NCBI:6497,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:79188,NCBI:79188,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:346007,NCBI:346007,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:360,NCBI:360,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2968,NCBI:2968,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7703,NCBI:7703,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1738,NCBI:1738,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1285,NCBI:1285,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:26960,NCBI:26960,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:85378,NCBI:85378,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:774,NCBI:774,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:65250,NCBI:65250,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:182,NCBI:182,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9130,NCBI:9130,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:11235,NCBI:11235,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:57152,NCBI:57152,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:79133,NCBI:79133,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7439,NCBI:7439,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:10082,NCBI:10082,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6522,NCBI:6522,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3850,NCBI:3850,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:51412,NCBI:51412,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6870,NCBI:6870,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3209,NCBI:3209,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:84133,NCBI:84133,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:11128,NCBI:11128,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:55210,NCBI:55210,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6532,NCBI:6532,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4591,NCBI:4591,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:55906,NCBI:55906,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:23259,NCBI:23259,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9056,NCBI:9056,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2495,NCBI:2495,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:340665,NCBI:340665,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:55627,NCBI:55627,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:10590,NCBI:10590,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:973,NCBI:973,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8481,NCBI:8481,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:494551,NCBI:494551,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7189,NCBI:7189,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5371,NCBI:5371,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9775,NCBI:9775,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:54205,NCBI:54205,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:200931,NCBI:200931,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3911,NCBI:3911,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4535,NCBI:4535,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:440,NCBI:440,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:286,NCBI:286,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4148,NCBI:4148,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:81848,NCBI:81848,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:338557,NCBI:338557,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:64864,NCBI:64864,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:27031,NCBI:27031,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:91869,NCBI:91869,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:55129,NCBI:55129,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:79717,NCBI:79717,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1378,NCBI:1378,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:169522,NCBI:169522,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9463,NCBI:9463,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1675,NCBI:1675,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5238,NCBI:5238,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8492,NCBI:8492,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:160418,NCBI:160418,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6356,NCBI:6356,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:146057,NCBI:146057,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:79092,NCBI:79092,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9607,NCBI:9607,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5279,NCBI:5279,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8239,NCBI:8239,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7414,NCBI:7414,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5076,NCBI:5076,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5053,NCBI:5053,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4091,NCBI:4091,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:286410,NCBI:286410,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3785,NCBI:3785,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4849,NCBI:4849,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:51594,NCBI:51594,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:197,NCBI:197,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3673,NCBI:3673,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5027,NCBI:5027,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:64840,NCBI:64840,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:5925,NCBI:5925,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2260,NCBI:2260,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6736,NCBI:6736,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:50940,NCBI:50940,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1075,NCBI:1075,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:83893,NCBI:83893,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9128,NCBI:9128,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:51251,NCBI:51251,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9321,NCBI:9321,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3860,NCBI:3860,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:199223,NCBI:199223,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:23279,NCBI:23279,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9581,NCBI:9581,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6533,NCBI:6533,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2249,NCBI:2249,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2521,NCBI:2521,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:64856,NCBI:64856,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:473,NCBI:473,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4488,NCBI:4488,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2660,NCBI:2660,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9131,NCBI:9131,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8241,NCBI:8241,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4438,NCBI:4438,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2110,NCBI:2110,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2584,NCBI:2584,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1235,NCBI:1235,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1742,NCBI:1742,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:25794,NCBI:25794,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2560,NCBI:2560,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4808,NCBI:4808,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:30062,NCBI:30062,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:90417,NCBI:90417,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:79184,NCBI:79184,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7092,NCBI:7092,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6301,NCBI:6301,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:54802,NCBI:54802,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4481,NCBI:4481,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:3417,NCBI:3417,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:58497,NCBI:58497,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:10318,NCBI:10318,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:9496,NCBI:9496,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4762,NCBI:4762,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:8220,NCBI:8220,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:7345,NCBI:7345,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:2622,NCBI:2622,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:64919,NCBI:64919,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:6886,NCBI:6886,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:4589,NCBI:4589,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:10046,NCBI:10046,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:1062,NCBI:1062,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:
+gene,NCBIGene:81624,NCBI:81624,genes_to_disease.txt,exact_match,1.0,Canonical namespace NCBI:

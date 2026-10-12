@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Large generated knowledge graph files (>50MB, regenerate with python src/build_graph.py)
+processed/knowledge_graph_edges.csv
+processed/disease_phenotype.csv
+processed/gene_phenotype_processed.csv
+
+# System
+.DS_Store
+Thumbs.db

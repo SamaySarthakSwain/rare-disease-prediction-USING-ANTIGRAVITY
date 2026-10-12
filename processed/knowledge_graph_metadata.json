@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-10-12 20:40:14",
+  "total_nodes": 40321,
+  "node_type_counts": {
+    "phenotype": 19894,
+    "disease": 14871,
+    "gene": 5556
+  },
+  "total_edges": 599868,
+  "edge_type_counts": {
+    "IS_A": 24390,
+    "HAS_PHENOTYPE": 285316,
+    "ASSOCIATED_WITH_DISEASE": 16098,
+    "ASSOCIATED_WITH_PHENOTYPE": 274064
+  },
+  "isolated_nodes_count": 24,
+  "connected_components_count": 120,
+  "largest_component_size": 40051,
+  "cycles_in_is_a_hierarchy": 0
+}
